@@ -33,44 +33,6 @@ O aplicativo reúne diversos estabelecimentos em um único lugar, permitindo que
 
 ---
 
-## 🚀 Tecnologias
-
-- Flutter
-- Dart
-- Material Design
-- url_launcher
-- Android
-
----
-
-## 📂 Estrutura do Projeto
-
-```
-lib/
- ├── models/
- ├── screens/
- ├── widgets/
- ├── services/
- ├── utils/
- └── main.dart
-```
-
----
-
-## 📦 Como executar
-
-```bash
-git clone https://github.com/SEU-USUARIO/comprafacil.git
-
-cd comprafacil
-
-flutter pub get
-
-flutter run
-```
-
----
-
 ## 🎯 Objetivo
 
 Fortalecer o comércio local de Sarapuí, facilitando o contato entre clientes e estabelecimentos através de uma experiência simples e rápida.
