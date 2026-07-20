@@ -23,16 +23,6 @@ O aplicativo reúne diversos estabelecimentos em um único lugar, permitindo que
 
 ---
 
-## 📸 Screenshots
-
-> Adicione aqui imagens do aplicativo.
-
-| Tela Inicial | Lista de Parceiros | WhatsApp |
-|--------------|--------------------|-----------|
-| ![](assets/readme/home.png) | ![](assets/readme/parceiros.png) | ![](assets/readme/whatsapp.png) |
-
----
-
 ## 🎯 Objetivo
 
 Fortalecer o comércio local de Sarapuí, facilitando o contato entre clientes e estabelecimentos através de uma experiência simples e rápida.
