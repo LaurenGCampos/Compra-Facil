@@ -1,17 +1,107 @@
-# comprafacil
+# 🛒 Compra Fácil Sarapuí
 
-A new Flutter project.
+Aplicativo desenvolvido em **Flutter** para conectar clientes aos estabelecimentos parceiros do **Compra Fácil Sarapuí**, permitindo iniciar pedidos de forma rápida através do WhatsApp.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Sobre o projeto
 
-A few resources to get you started if this is your first Flutter project:
+O Compra Fácil Sarapuí tem como objetivo facilitar a comunicação entre consumidores e comércios locais.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+O aplicativo reúne diversos estabelecimentos em um único lugar, permitindo que o usuário escolha uma categoria, selecione um parceiro e seja direcionado automaticamente para uma conversa no WhatsApp com uma mensagem pronta.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ✨ Funcionalidades
+
+- 🛍️ Lista de estabelecimentos parceiros
+- 📂 Categorias (Mercado, Farmácia, Lanches, Padaria, Açaí, Corridas e muito mais)
+- 💬 Abertura automática do WhatsApp
+- 📱 Interface simples e intuitiva
+- ⚡ Navegação rápida
+- 🔄 Painel para gerenciamento dos parceiros (em desenvolvimento)
+
+---
+
+## 📸 Screenshots
+
+> Adicione aqui imagens do aplicativo.
+
+| Tela Inicial | Lista de Parceiros | WhatsApp |
+|--------------|--------------------|-----------|
+| ![](assets/readme/home.png) | ![](assets/readme/parceiros.png) | ![](assets/readme/whatsapp.png) |
+
+---
+
+## 🚀 Tecnologias
+
+- Flutter
+- Dart
+- Material Design
+- url_launcher
+- Android
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+lib/
+ ├── models/
+ ├── screens/
+ ├── widgets/
+ ├── services/
+ ├── utils/
+ └── main.dart
+```
+
+---
+
+## 📦 Como executar
+
+```bash
+git clone https://github.com/SEU-USUARIO/comprafacil.git
+
+cd comprafacil
+
+flutter pub get
+
+flutter run
+```
+
+---
+
+## 🎯 Objetivo
+
+Fortalecer o comércio local de Sarapuí, facilitando o contato entre clientes e estabelecimentos através de uma experiência simples e rápida.
+
+---
+
+## 📌 Status do Projeto
+
+🟢 Em desenvolvimento
+
+Funcionalidades futuras:
+
+- Login de administradores
+- Painel de gerenciamento
+- Cadastro de parceiros
+- Favoritos
+- Busca por estabelecimentos
+- Notificações
+- Integração com entregadores
+
+---
+
+## 👨‍💻 Desenvolvedores
+
+**Lauren Campos**
+
+Projeto desenvolvido utilizando Flutter como parte do desenvolvimento do aplicativo Compra Fácil Sarapuí.
+
+---
+
+## 📄 Licença
+
+Este projeto é destinado ao Compra Fácil Sarapuí.
+Todos os direitos reservados.
