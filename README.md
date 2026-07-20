@@ -47,7 +47,7 @@ Funcionalidades futuras:
 
 ## 👨‍💻 Desenvolvedores
 
-**Lauren Campos**
+**Gustavo CUba & Lauren Campos**
 
 Projeto desenvolvido utilizando Flutter como parte do desenvolvimento do aplicativo Compra Fácil Sarapuí.
 
